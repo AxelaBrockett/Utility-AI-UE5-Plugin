@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AJBUtilityAIPlugin.cpp.obj": [
+			"PerModuleInline.gen.cpp.obj",
+			"AJBUtilityAIPlugin.cpp.obj"
+		]
+	}
+}
