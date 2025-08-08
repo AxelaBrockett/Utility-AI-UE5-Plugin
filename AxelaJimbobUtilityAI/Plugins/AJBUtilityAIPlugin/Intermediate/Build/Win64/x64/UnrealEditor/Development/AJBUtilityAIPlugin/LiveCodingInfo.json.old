@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AJBUtilityAIPlugin.cpp.obj": [
+			"AJBUtilityActionBase.gen.cpp.obj",
+			"AJBUtilityActionBlueprintBase.gen.cpp.obj",
+			"AJBUtilityAIPlugin.init.gen.cpp.obj",
+			"AJBUtilityComponent.gen.cpp.obj",
+			"AJBUtilityDataAsset.gen.cpp.obj",
+			"AJBUtilityFactorBase.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"AJBUtilityActionBase.cpp.obj",
+			"AJBUtilityActionBlueprintBase.cpp.obj",
+			"AJBUtilityFactorBase.cpp.obj",
+			"AJBUtilityAIPlugin.cpp.obj",
+			"AJBUtilityComponent.cpp.obj",
+			"AJBUtilityDataAsset.cpp.obj"
+		]
+	}
+}
